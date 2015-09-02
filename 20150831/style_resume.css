@@ -46,10 +46,7 @@ text-align: left;
 margin: 10px 40px 40px 80px;
 }
 
-
-     text-align: center;
-   
-    color: blue;
-    
-padding: 30px;
-    height: 40px;
+ol{
+color: cadetblue;
+font-size: 10pt;
+}

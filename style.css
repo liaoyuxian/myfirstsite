@@ -1,0 +1,11 @@
+h1{
+font-family: serif;
+    color: aqua
+}
+
+img#image {
+width: 100%;
+    border: 2px solid blue;
+    border-radius: 5px;
+
+}

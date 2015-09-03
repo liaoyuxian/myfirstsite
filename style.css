@@ -1,3 +1,19 @@
+body {
+	background-color:#c0c0c0;
+	font-family:"Lucida Sans", Arial, Helvetica, sans-serif;
+}
+
+div#container{
+	width:740px;
+	margin:60px auto;
+	background-color:#ffffff;
+	padding:30px;
+}
+
+
+
+
+
 h1{
 font-family: serif;
     color: aqua
